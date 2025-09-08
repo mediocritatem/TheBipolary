@@ -15,3 +15,4 @@
 - [ ] ***Работать с Git и GitHub***
 - [ ] ***Создавать локальный и удаленный репозиторий в GitHub***
 
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/060a88d2-25dc-44c9-950f-283afcffb6ef" />
